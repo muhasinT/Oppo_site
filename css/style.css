@@ -86,7 +86,7 @@ body{
 }
 .button_margin{
   margin-left: 65px;
-  margin-right: -88px;
+  margin-right:  -88px;
 }
 .more_button{
   background-color: #ebebeb !important;
@@ -123,6 +123,13 @@ body{
 .padding{
   padding-left: 10px!important;
 }
+.bullet{
+  list-style: none;
+}
+
+
+  
+
 
 
 
